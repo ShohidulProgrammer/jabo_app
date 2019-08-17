@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1034300445637",
+    "firebase_url": "https://jabo-app.firebaseio.com",
+    "project_id": "jabo-app",
+    "storage_bucket": "jabo-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034300445637:android:e285f2f007efe982",
+        "android_client_info": {
+          "package_name": "com.example.jabo_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034300445637-u7sovgat75400jk5rne1qav5k9hnk7rv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jabo_app",
+            "certificate_hash": "7f8ab0ea126ba82448ee0d5f85ff71fcf2514695"
+          }
+        },
+        {
+          "client_id": "1034300445637-q0jcqj2amu2tv00o9dumisqmgl2hgl29.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXvr4_dEGBU00Qr09fnT3rj4gWVX5BEL4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1034300445637-q0jcqj2amu2tv00o9dumisqmgl2hgl29.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
