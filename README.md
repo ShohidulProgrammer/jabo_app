@@ -1,2 +1,2 @@
 # jabo_app
- Based on Ubar clone, search current location and destination with mark on google map, 
+ Based on Uber clone, searching the current location and destinations with location icon on google map.
